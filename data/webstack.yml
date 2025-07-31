@@ -73,6 +73,10 @@
           logo: IDM.png
           url: https://chrome.zzzmh.cn/info/ngpampappnmepgilojfohadhhmbhlaek
           description: 
+        - title: blackace
+          logo: blackace.png
+          url: https://blackace.app
+          description: 网站秒变APP
     - term: 在线视频
       links:
         - title: Youtube

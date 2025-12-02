@@ -1,0 +1,1386 @@
+---
+
+- taxonomy: 常用工具
+  icon: fas fa-star
+  list:
+    - term: 常用推荐
+      links:
+        - title: Cloudflare
+          logo: Cloudflare.png
+          url: https://www.cloudflare.com
+          description: 
+        - title: GitHub
+          logo: GitHub.png
+          url: https://github.com
+          description: 
+        - title: Gitee
+          logo: Gitee.png
+          url: https://gitee.com
+          description: 
+        - title: 油小猴
+          logo: youxiaohou.png
+          url: https://www.youxiaohou.com
+          description: 
+        - title: 吾爱破解
+          logo: wapj.png
+          url: https://www.52pojie.cn
+          description: 
+        - title: APK镜像
+          logo: apkmirror.png
+          url: https://www.apkmirror.com
+          description: 
+        - title: Aptoide软件
+          logo: Aptoide.png
+          url: https://cn.aptoide.com
+          description: 
+        - title: Wordpress中文包
+          logo: Wordpress.png
+          url: https://cn.wordpress.org/download/releases
+          description: 
+        - title: 国内流行宝塔运维面板
+          logo: bt.cn.png
+          url: https://www.bt.cn
+          description: 
+        - title: 宝塔面板国际版
+          logo: aapanel.com.png
+          url: https://www.aapanel.com/new/index.html
+          description: 
+        - title: Google 文档
+          logo: docs.google.png
+          url: https://docs.google.com
+          description: 
+        - title: 大力盘
+          logo: dalipan.png
+          url: https://www.dalipan.com
+          description: 
+        - title: 网盘搜索
+          logo: bks.thefuture.png
+          url: https://bks.thefuture.top
+          description: 
+        - title: 节点转换工具
+          logo: v2rayse.com.png
+          url: https://v2.v2rayse.com/node-convert
+          description: 
+        - title: HTML颜色代码
+          logo: htmlcolorcodes.png
+          url: https://htmlcolorcodes.com/zh
+          description: 
+        - title: 腾讯云免费CDN
+          logo: edgeone.png
+          url: https://edgeone.ai/zh/login?s_url=https://console.tencentcloud.com/edgeone
+          description: 
+        - title: 帽子云免费部署
+          logo: maoziyun.png
+          url: https://www.maoziyun.com
+          description: 
+        - title: 浪浪浪云在线SSH连接
+          logo: langlangy.png
+          url: https://langlangy.cn/gmssh.html
+          description: 在线SSH连接
+        - title: OpenSpeedy加速
+          logo: OpenSpeedy.png
+          url: https://github.com/game1024/OpenSpeedy
+          description: 
+        - title: IDM
+          logo: IDM.png
+          url: https://chrome.zzzmh.cn/info/ngpampappnmepgilojfohadhhmbhlaek
+          description: 
+        - title: 草料二维码生成器
+          logo: ckewmscq.png
+          url: https://cli.im
+          description: 
+        - title: blackace
+          logo: blackace.png
+          url: https://blackace.app
+          description: 网站秒变APP
+        - title: ITDOG
+          logo: itdog.png
+          url: https://www.itdog.cn/ping
+          description: 
+        - title: 中文转码
+          logo: bchrt.png
+          url: https://www.bchrt.com/tools/punycode-encoder/
+          description: 
+    - term: 在线视频
+      links:
+        - title: Youtube
+          logo: Youtube.png
+          url: https://www.youtube.com
+          description: 
+        - title: YouTube视频下载
+          logo: YouTubefo.png
+          url: https://loader.fo/en
+          description: 
+        - title: 哔哩哔哩
+          logo: bilibili.png
+          url: https://www.bilibili.com
+          description: 
+        - title: 奈飞
+          logo: netflix.png
+          url: https://www.netflix.com
+          description: 
+        - title: 迪士尼
+          logo: disneyplus.png
+          url: https://www.disneyplus.com
+          description: 
+    - term: 在线翻译
+      links:
+        - title: DeepL翻译
+          logo: DeepL.png
+          url: https://www.deepl.com/zh/translator
+          description: 
+        - title: 必应翻译
+          logo: microsoft.png
+          url: https://www.bing.com/translator
+          description: 
+        - title: 腾讯翻译
+          logo: transmart.png
+          url: https://transmart.qq.com
+          description: 
+        - title: 有道翻译
+          logo: youdao.png
+          url: https://fanyi.youdao.com
+          description: 
+        - title: 阿里翻译
+          logo: alibaba.png
+          url: https://translate.alibaba.com
+          description: 
+        - title: 火山翻译
+          logo: volcengine.png
+          url: https://translate.volcengine.com
+          description: 
+        - title: 谷歌翻译
+          logo: gugefy.png
+          url: https://translate.google.com
+          description: 
+        - title: 讯飞文本翻译
+          logo: xfyun.png
+          url: https://fanyi.xfyun.cn/console/trans/text
+          description: 
+        - title: 百度翻译
+          logo: baidufy.png
+          url: https://fanyi.baidu.com
+          description: 
+        - title: 彩云小译
+          logo: caiyunapp.png
+          url: https://fanyi.caiyunapp.com
+          description: 
+        - title: 搜狗翻译
+          logo: sogou.png
+          url: https://fanyi.sogou.com
+          description: 
+    - term: 测速检测
+      links:
+        - title: fast测速
+          logo: fast.png
+          url: https://fast.com
+          description: 
+        - title: Speedtest
+          logo: Speedtest.png
+          url: https://www.speedtest.net
+          description: 。
+        - title: Browser Scan
+          logo: Browser Scan.png
+          url: https://www.browserscan.net/zh/speed-test
+          description: 
+        - title: 测速网
+          logo: csw.png
+          url: https://www.speedtest.cn
+          description: 
+        - title: LibreSpeed
+          logo: LibreSpeed.png
+          url: https://www.librespeed.cn
+          description: 
+        - title: 梦飞测速网
+          logo: mfcsw.png
+          url: https://www.mfisp.com/speedtest
+          description: 。
+        - title: 中国科学技术大学测速
+          logo: zgkxjsdxcs.png
+          url: https://test.ustc.edu.cn
+          description: 
+        - title: 东北大学测速
+          logo: dbdxcs.png
+          url: https://speed.neu.edu.cn
+          description: 
+        - title: 美国洛杉矶
+          logo: mggsj.png
+          url: https://us.speedtest.hostxen.com
+          description: 
+
+
+- taxonomy: 网络游戏
+  icon: fas fa-ship
+  list:
+    - term: 传奇私服
+      links:
+        - title: 好私服
+          logo: haosf.png
+          url: https://haosf.com
+          description: 
+        - title: 找服网
+          logo: zhaofu.png
+          url: https://www.zhaofu.com
+          description: 
+        - title: 找私服
+          logo: zhaohf.png
+          url: https://www.zhaohf.com
+          description: 
+        - title: 搜服123
+          logo: sf123.png
+          url: https://sf123.com
+          description: 
+        - title: 私服发布
+          logo: zjhaochao.png
+          url: http://www.zjhaochao.com
+          description: 
+    - term: 梦幻西游
+      links:
+        - title: 175DT答题器
+          logo: 175DT.png
+          url: https://175dt.com
+          description: 
+        - title: 梦幻藏宝阁
+          logo: cbg.png
+          url: https://xyq.cbg.163.com
+          description: 
+        - title: 网页版工具箱
+          logo: wybgjx.png
+          url: https://xyq.163.com/tools/index.html
+          description: 
+        - title: 符石组合
+          logo: fszh.png
+          url: https://xyq.163.com/dj020_4.html
+          description: 
+        - title: 奇经八脉
+          logo: qjbm.png
+          url: https://xyq.163.com/2021/jingmai
+          description: 
+        - title: 梦幻客服专区
+          logo: 163.png
+          url: https://xyq.gm.163.com
+          description: 
+        - title: 动物套属性
+          logo: dwtsx.png
+          url: https://ds.163.com/article/5fe484a0517f0f149bb1300f
+          description: 
+        - title: 钟灵石属性
+          logo: zlssx.png
+          url: https://www.3733.com/news/361710.html
+          description: 
+        - title: 法宝介绍
+          logo: fbjs.png
+          url: https://ds.163.com/article/5fa9c9f57c87224d9e4260ac
+          description: 
+        - title: 法宝加灵气
+          logo: fbjlq.png
+          url: https://box.175dt.com/12
+          description: 
+
+
+- taxonomy: 网络工具
+  icon: fas fa-truck
+  list:
+    - term: AI工具
+      links:
+        - title: ChatGPT
+          logo: ChatGPT.png
+          url: https://chatgpt.com
+          description: 
+        - title: ChatGPT 4o
+          logo: ChatGPT 4o.png
+          url: https://chatgptchatapp.com
+          description: 
+        - title: ChatGAi
+          logo: ChatGAi.png
+          url: https://chat.doltrans.com
+          description: 
+        - title: ChatBot
+          logo: ChatBot.png
+          url: https://hzc1chat.skybyte.me
+          description: 
+        - title: Copilot
+          logo: Copilot.png
+          url: https://copilot.microsoft.com/onboarding
+          description: 
+        - title: AI_TOOL00
+          logo: AI_TOOL00.png
+          url: https://uuu.mygpt.bid
+          description: 
+        - title: NineBot AI（汇总）
+          logo: NineBot AI.png
+          url: https://ai.ninebotai.com
+          description:
+        - title: AI创作助手国内版
+          logo: ai.codawise.png
+          url: https://ai.codawise.com
+          description: 
+    - term: 虚拟信用卡
+      links:
+        - title: 2020Card
+          logo: 2020Card.png
+          url: https://vip.2020card.com/h5/reg?invite=3
+          description: 
+        - title: WildCard
+          logo: WildCard.png
+          url: https://bewildcard.com
+          description: 
+    - term: 接码平台
+      links:
+        - title: YunJieMa
+          logo: YunJieMa.png
+          url: https://yunjiema.net
+          description: 
+        - title: zusms
+          logo: zusms.png
+          url: https://www.zusms.com
+          description: 
+        - title: yunduanxin
+          logo: yunduanxin.png
+          url: https://yunduanxin.net
+          description: 
+        - title: mianfeisms
+          logo: mianfeisms.png
+          url: https://www.mianfeisms.xyz
+          description: 
+        - title: jiemahao
+          logo: jiemahao.png
+          url: https://jiemahao.com
+          description: 
+        - title: sms-activate
+          logo: sms-activate.png
+          url: https://sms-activate.guru/en
+          description: 
+        - title: wetalk
+          logo: wetalk.png
+          url: https://wetalkapp.com/receive-sms
+          description: 
+        - title: US-Phone-Number
+          logo: US-Phone-Number.png
+          url: https://us-phone-number.com
+          description: 
+          
+          
+- taxonomy: 网络地址
+  icon: fas fa-wifi
+  list:
+    - term: IP干净度检测
+      links:
+        - title: Scamalytics
+          logo: Scamalytics.png
+          url: https://dnschecker.org/ip-location.php
+          description: 
+        - title: IP-Score
+          logo: IP-Score.png
+          url: https://www.ip-score.com
+          description: 
+        - title: MY IP Lookup
+          logo: MY IP Lookup.png
+          url: https://www.ipaddress.com/what-is-my-ip-address
+          description: 
+        - title: Whatismyipaddress
+          logo: Whatismyipaddress.png
+          url: https://ipleak.com/full-report
+          description: 
+        - title: ping0
+          logo: ping0.png
+          url: https://ping0.cc
+          description: 
+    - term: IP地址检测
+      links:
+        - title: IP地址检测
+          logo: whoer.png
+          url: https://whoer.net/zh
+          description: 
+        - title: IP地址查询
+          logo: 900cha.png
+          url: https://ip.900cha.com
+          description: 
+        - title: 查看本机IP地址
+          logo: iplark.png
+          url: https://iplark.com
+          description: 
+        - title: IP Address
+          logo: IP Address.png
+          url: https://iplocation.io
+          description: 
+        - title: IP Address Lookup
+          logo: Scamalytics.png
+          url: https://dnschecker.org/ip-location.php
+          description: 
+        - title: My IP Address
+          logo: My IP Address.png
+          url: https://whatismyipaddress.com
+          description: 
+        - title: ipaddress
+          logo: ipaddress.png
+          url: https://www.ipaddress.com/what-is-my-ip-address
+          description: 
+        - title: IP VOID
+          logo: IP VOID.png
+          url: https://www.ipvoid.com/ip-blacklist-check
+          description: 
+        - title: IP Leak
+          logo: IP Leak.png
+          url: https://ipleak.com/full-report
+          description: 
+
+
+- taxonomy: 图片工具
+  icon: fas fa-images
+  list: 
+    - term: 图片编辑
+      links:
+        - title: iloveimg
+          logo: iloveimg.png
+          url: https://www.iloveimg.com/zh-cn
+          description: 
+        - title: 图片转换
+          logo: png-to-svg.png
+          url: https://cdkm.com/cn/png-to-svg
+          description: 
+        - title: Photopea在线
+          logo: Photopea.png
+          url: https://www.photopea.com
+          description: 
+        - title: 懒人办公
+          logo: lanren.png
+          url: https://www.lanren.work
+          description: 
+        - title: 免费编辑图片
+          logo: fotor.png
+          url: https://www.fotor.com/cn
+          description:
+        - title: 改图宝
+          logo: gaitubao.png
+          url: https://www.gaitubao.com
+          description:
+        - title: 图片转文字
+          logo: baimiaoapp.png
+          url: https://web.baimiaoapp.com
+          description:
+        - title: 图标获取Api接口
+          logo: favicon.png
+          url: https://www.favicon.vip
+          description: 
+        - title: 网站图标获取
+          logo: toolb.png
+          url: https://toolb.cn/favicon
+          description: 
+        - title: 网页图标抓取
+          logo: gonglue.qinggl.png
+          url: https://gonglue.qinggl.com/app/img/icon.jsp
+          description:
+        - title: 虚拟头像
+          logo: avatarmaker.png
+          url: https://avatarmaker.com
+          description: 
+        - title: 美国地址
+          logo: shenfendaquan.png
+          url: https://www.shenfendaquan.com
+          description: 
+        - title: 美国地址生成
+          logo: meiguodizhi.png
+          url: https://www.meiguodizhi.com
+          description: 
+        - title: 美国地址生成器
+          logo: ratenn.png
+          url: https://ratenn.com/american.html
+          description: 
+        - title: 【假证生成器】
+          logo: edu.png
+          url: https://edu.chatgpt.org.uk
+          description:
+    - term: 免费图床
+      links:
+        - title: imgse
+          logo: imgse.png
+          url: https://imgse.com
+          description: 
+        - title: imgur
+          logo: imgur.png
+          url: https://imgur.com
+          description: 。
+        - title: imagehub
+          logo: imagehub.png
+          url: https://www.imagehub.cc
+          description: 
+        - title: imgbb
+          logo: imgbb.png
+          url: https://imgbb.com
+          description: 
+        - title: postimages
+          logo: postimages.png
+          url: https://postimages.org
+          description: 
+        - title: imgurl
+          logo: imgurl.png
+          url: https://www.imgurl.org
+          description: 。
+        - title: z4a
+          logo: z4a.png
+          url: https://z4a.net
+          description: 
+        - title: sm.ms
+          logo: sm.ms.png
+          url: https://smms.app
+          description: 
+
+
+- taxonomy: 网盘邮箱
+  icon: fas fa fa-comments
+  list: 
+    - term: 邮箱分享
+      links:
+        - title: M2u 临时教育邮箱
+          logo: m2u.png
+          url: https://m2u.io
+          description: 
+        - title: ZMAIL-匿名邮箱
+          logo: zmail.png
+          url: https://dh110.pp.ua
+          description: 
+        - title: Gmail 临时邮箱
+          logo: emailnator.png
+          url: https://www.emailnator.com
+          description: 
+        - title: 临时邮箱
+          logo: linshiguge.png
+          url: https://www.linshiguge.com
+          description: 
+        - title: outlook邮箱
+          logo: outlook.png
+          url: https://outlook.live.com/mail
+          description: 
+        - title: Google邮箱
+          logo: Google.png
+          url: https://www.google.com/intl/zh-CN_cn/gmail/about
+          description: 
+        - title: Proton邮箱
+          logo: Proton.png
+          url: https://account.proton.me/zh-cn/mail/signup
+          description: 
+        - title: 163邮箱
+          logo: 163.png
+          url: https://mail.163.com
+          description: 
+        - title: 126邮箱
+          logo: 163.png
+          url: https://mail.126.com
+          description: 
+        - title: Yeah邮箱
+          logo: 163.png
+          url: https://www.yeah.net
+          description: 
+        - title: QQ邮箱
+          logo: QQ.png
+          url: https://mail.qq.com
+          description: 
+        - title: Yahoo邮箱
+          logo: Yahoo.png
+          url: https://mail.yahoo.com
+          description: 
+        - title: ZOHO域名邮箱
+          logo: zoho.png
+          url: https://www.zoho.com/mail
+          description: 
+        - title: Serv00域名邮箱
+          logo: mail.serv00.png
+          url: https://mail.serv00.com
+          description: 
+        - title: 教育邮箱
+          logo: zmkk.png
+          url: https://zmkk.edu.kg/login
+          description: 
+    - term: 网盘分享
+      links:
+        - title: 123云盘
+          logo: 123.png
+          url: https://www.123pan.com
+          description: 
+        - title: 小飞机云盘
+          logo: feijipan.png
+          url: https://www.feijipan.com
+          description: 
+        - title: 阿里云盘
+          logo: alipan.png
+          url: https://www.alipan.com
+          description: 
+        - title: 城通网盘
+          logo: ctfile.png
+          url: https://www.ctfile.com/p/login
+          description: 
+        - title: 迅雷云盘
+          logo: xunlei.png
+          url: https://pan.xunlei.com/login
+          description: 
+        - title: 蓝泰云
+          logo: woozooo.png
+          url: https://pc.woozooo.com/account.php?action=login&ref=/mydisk.php
+          description: 
+        - title: 百度云盘
+          logo: baidu.png
+          url: https://yun.baidu.com
+          description: 
+        - title: 天翼云盘
+          logo: 189.png
+          url: https://cloud.189.cn/web/login.html
+          description: 
+        - title: 微软云盘
+          logo: microsoft.png
+          url: https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage
+          description: 
+        - title: 谷歌云盘
+          logo: Google.png
+          url: https://workspace.google.com/products/drive
+          description: 
+        - title: 苹果云盘
+          logo: icloud.png
+          url: https://www.icloud.com
+          description: 
+        - title: MediaFir
+          logo: MediaFir.png
+          url: https://www.mediafire.com
+          description: 
+        - title: infini-cloud
+          logo: infini-cloud.png
+          url: https://infini-cloud.net/en
+          description: 
+        - title: B2云存储
+          logo: backblaze.png
+          url: https://www.backblaze.com
+          description: 
+        - title: mega网盘
+          logo: mega.png
+          url: https://mega.io
+          description: 
+        - title: pcloud网盘
+          logo: pcloud.png
+          url: https://u.pcloud.com/#page=login
+          description: 
+        - title: 私人网盘
+          logo: wangpan.png
+          url: https://ky520.sylu.net
+          description: 
+        
+
+- taxonomy: 科学上网
+  icon: fas fa-tshirt
+  list:
+    - term: 节点工具
+      links:
+        - title: 优选IP
+          logo: stock.png
+          url: https://stock.hostmonit.com/CloudFlareYes
+          description: 全球主机监控 - 国内外VPS
+        - title: Cloudflare Scanner
+          logo: Cloudflare Scanner.png
+          url: https://cloudflare-scanner.vercel.app
+          description: Cloudflare 优选IP
+        - title: 85la
+          logo: 85la.png
+          url: https://www.85la.com
+          description: 每日节点更新
+        - title: FreeClashNode
+          logo: Clash.png
+          url: https://www.freeclashnode.com/#google_vignette
+          description: 每日更新SSR、V2ray和Clash等节点
+        - title: 米贝分享
+          logo: mibei.png
+          url: https://www.mibei77.com
+          description: 米贝每日节点更新
+        - title: v2ray - NodeFree
+          logo: v2ray - NodeFree.png
+          url: https://nodefree.org/t/v2ray
+          description: 每日更新节点
+        - title: Open Proxy List
+          logo: Open Proxy List.png
+          url: https://openproxylist.com/v2ray
+          description: 共享节点池
+        - title: 节点池
+          logo: workers.png
+          url: https://yangleiily.yangleiily.workers.dev
+          description: 自建节点池
+        - title: Configs List
+          logo: Configs List.png
+          url: https://xconfig.pages.dev/index2
+          description: github网站制作节点
+    - term: 免费机场
+      links:
+        - title: Free机场
+          logo: ThFYPVVY.png
+          url: https://zero.2c.lol/#/register?code=ThFYPVVY
+          description: 优惠码：free7 free加月份
+        - title: ninecloud
+          logo: ninecloud.png
+          url: https://gov.ninecloud.co/#/login
+          description: 优惠吗：c
+        - title: Alice Network
+          logo: Alice Network.png
+          url: https://alice.sale/#/register?code=4xOhUNj8
+          description: 优惠吗：happyalice
+        - title: 绝绝子
+          logo: cfd.png
+          url: https://www.31465.cfd/#/register?code=5RV0pkqh
+          description: 优惠吗：绝绝子开业大吉
+        - title: 养老机场
+          logo: MeSlgmAK.png
+          url: https://xn--l6qx3lcvp58x.com/#/register?code=MeSlgmAK
+          description: 
+        - title: 火星互联网交换中心
+          logo: console.png
+          url: https://console.marsix.net/#/login
+          description: 
+        - title: Helium Network
+          logo: Helium Network.png
+          url: https://dash.henet.uk
+          description: 
+        - title: IKUUU VPN
+          logo: IKUUU VPN.png
+          url: https://ikuuu.pw/auth/login
+          description: 
+      
+      
+- taxonomy: VPS服务器
+  icon: fas fa-bug fa-lg
+  list:
+    - term: 云服务器
+      links:
+        - title: 甲骨文云
+          logo: oracle.png
+          url: https://www.oracle.com/cn/cloud/free
+          description: 永久免费的服务器
+        - title: 亚马逊云
+          logo: aws.png
+          url: https://portal.aws.amazon.com/billing/signup#/start/email
+          description: 免费一年EC2,三个月轻量
+        - title: 微软云
+          logo: microsoft.png
+          url: https://azure.microsoft.com/zh-cn/free
+          description: 免费一个月
+        - title: 谷歌云
+          logo: cloud.google.png
+          url: https://cloud.google.com/?authuser=1
+          description: 免费三个月
+        - title: IDX Google
+          logo: IDX Google.png
+          url: https://idx.google.com
+          description: 
+        - title: Hugging Face
+          logo: Hugging Face.png
+          url: https://huggingface.co
+          description: 
+        - title: 浪浪云
+          logo: langlangy.png
+          url: https://langlangy.cn
+          description: 
+    - term: 免费容器
+      links:
+        - title: Northflank
+          logo: Northflank.png
+          url: https://northflank.com
+          description: 
+        - title: Patr
+          logo: Patr.png
+          url: https://patr.cloud
+          description: 
+        - title: Render
+          logo: Render.png
+          url: https://render.com
+          description: 
+        - title: Glitch
+          logo: Glitch.png
+          url: https://glitch.com
+          description: 
+        - title: Back4app
+          logo: Back4app.png
+          url: https://www.back4app.com
+          description: 
+        - title: zeabur
+          logo: zeabur.png
+          url: https://zeabur.com/zh-CN
+          description: 
+        - title: koyeb
+          logo: koyeb.png
+          url: https://www.koyeb.com
+          description: 
+        - title: netlify
+          logo: netlify.png
+          url: https://www.netlify.com
+          description: 
+        - title: Replit
+          logo: Replit.png
+          url: https://replit.com
+          description: 
+        - title: railway
+          logo: railway.png
+          url: https://railway.com
+          description: 
+        - title: Gitpod
+          logo: Gitpod.png
+          url: https://www.gitpod.io
+          description: 
+        - title: ide.groom
+          logo: ide.groom.png
+          url: https://ide.goorm.io
+          description: 
+        - title: vercel
+          logo: vercel.png
+          url: https://vercel.com
+          description: 
+        - title: Claw Cloud
+          logo: Claw Cloud.png
+          url: https://ap-northeast-1.run.claw.cloud
+          description: 
+        - title: Deepnote
+          logo: Deepnote.png
+          url: https://deepnote.com
+          description: 
+    - term: 虚拟主机
+      links:
+        - title: infinityfree
+          logo: infinityfree.png
+          url: https://www.infinityfree.com
+          description: 
+        - title: serv00
+          logo: serv00.png
+          url: https://panel7.serv00.com
+          description: 
+        - title: freehost免费主机
+          logo: freehost.png
+          url: https://www.swb.cc
+          description: 
+        - title: my-place
+          logo: my-place.png
+          url: http://my-place.us
+          description: 
+        - title: Freehostia
+          logo: Freehostia.png
+          url: https://www.freehostia.com/free-cloud-hosting
+          description: 
+        - title: ENDLESS
+          logo: ENDLESS.png
+          url: https://theendlessweb.com
+          description:
+        - title: 韩国主机
+          logo: nowhosting.png
+          url: https://nowhosting.kr
+          description: 
+        - title: BIZ.NF
+          logo: BIZ.NF.png
+          url: https://www.biz.nf
+          description: 
+        - title: evai.pl
+          logo: evai.pl.png
+          url: http://evai.pl
+          description: 
+        - title: alchosting
+          logo: alchosting.png
+          url: https://www.alchosting.net/free-hosting
+          description: 
+        - title: beget
+          logo: beget.png
+          url: https://beget.com/en/hosting/free
+          description: 
+        - title: webhostmost
+          logo: webhostmost.png
+          url: https://www.webhostmost.com
+          description: 
+        - title: Pantheon
+          logo: Pantheon.png
+          url: https://pantheon.io/plans/pricing
+          description: 
+        - title: DataOnline
+          logo: dataonline.png
+          url: https://my.dataonline.vn/clientarea/services/hosting-gia-re
+          description: 
+          
+          
+- taxonomy: 域名分享
+  icon: fas fas fa-desktop fa-lg
+  list:
+    - term: 免费域名
+      links:
+        - title: clouDNS
+          logo: clouDNS.png
+          url: https://www.cloudns.net
+          description: 
+        - title: Spaceship
+          logo: Spaceship.png
+          url: https://www.spaceship.com/zh
+          description: 
+        - title: pp.ua
+          logo: pp.ua.png
+          url: https://nic.ua
+          description: 
+        - title: us.kg
+          logo: us.kg.png
+          url: https://nic.us.kg
+          description: 
+        - title: DNSHE
+          logo: DNSHE.png
+          url: https://my.dnshe.com/clientarea.php
+          description: 
+        - title: hidns
+          logo: hidns.png
+          url: https://www.hidoha.net
+          description: 
+        - title: dynu
+          logo: dynu.png
+          url: https://www.dynu.com
+          description: 
+        - title: dynv6
+          logo: dynv6.png
+          url: https://dynv6.com
+          description: 
+        - title: desec.io
+          logo: desec.io.png
+          url: https://desec.io
+          description: 
+        - title: Dynamic IP
+          logo: noip.png
+          url: https://www.noip.com
+          description: 
+        - title: DNSExit
+          logo: DNSExit.png
+          url: https://dnsexit.com
+          description:
+        - title: now-dns
+          logo: now-dns.png
+          url: https://now-dns.com
+          description: 
+        - title: netlib.re
+          logo: netlib.png
+          url: https://www.netlib.re
+          description: 
+        - title: zone.id
+          logo: zone.png
+          url: https://zone.id
+          description: 
+        - title: ZoneABC
+          logo: ZoneABC.png
+          url: https://zoneabc.net
+          description: 
+        - title: x10 hosting
+          logo: x10 hosting.png
+          url: https://x10hosting.com/login
+          description: 
+        - title: 153域名
+          logo: yumin.png
+          url: https://www.l53.net
+          description: 
+        - title: frii.site
+          logo: frii.site.png
+          url: https://www.frii.site
+          description: 
+        - title: osfs
+          logo: osfs.png
+          url: https://registry.osfc.org.cn
+          description: 
+        - title: MyDBS JP
+          logo: mydns.png
+          url: https://www.mydns.jp
+          description: 
+        - title: Duck DNS
+          logo: duckdns.png
+          url: https://www.duckdns.org
+          description: 
+        - title: changeip
+          logo: changeip.png
+          url: https://www.changeip.com
+          description: 
+        - title: bluu.pl
+          logo: bluu.pl.png
+          url: https://bluu.pl
+          description: 
+        - title: duiadns
+          logo: duiadns.png
+          url: https://www.duiadns.net
+          description: 
+        - title: 1gb
+          logo: 1gb.png
+          url: https://www.1gb.ua
+          description: 
+        - title: is-an.ai
+          logo: is-an.ai.png
+          url: https://is-an.ai
+          description: 
+        - title: vpsor
+          logo: vpsor.png
+          url: https://www.vpsor.cn
+          description: 
+        - title: site.ac
+          logo: site.ac.png
+          url: https://www.site.ac
+          description: 
+    - term: 域名托管
+      links:
+        - title: He.net
+          logo: He.net.png
+          url: https://he.net
+          description: 
+        - title: hostry
+          logo: hostry..png
+          url: https://hostry.com
+          description: 
+        - title: FREEDNS
+          logo: freedns.png
+          url: https://freedns.42.pl/?language=en
+          description: 
+        - title: FreeDNS
+          logo: free DNS.png
+          url: https://freedns.afraid.org
+          description: 
+    - term: SSL证书
+      links:
+        - title: ZeroSSL
+          logo: zerossl.png
+          url: https://zerossl.com
+          description: 
+        - title: FreeSSL
+          logo: freessl.png
+          url: https://freessl.org
+          description: 
+
+
+- taxonomy: 软件下载
+  icon: fas fa-download
+  list:
+    - term: Windows软件下载
+      links:
+        - title: v2reyN软件
+          logo: v2rayNG.png
+          url: https://github.com/2dust/v2rayN/releases
+          description: 
+        - title: Clash软件
+          logo: Clash.png
+          url: https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases
+          description: 
+        - title: Clash.Meta内核
+          logo: Clash.png
+          url: https://github.com/MetaCubeX/mihomo/releases
+          description: 
+        - title: Clash Verge
+          logo: Clash.png
+          usrl: https://github.com/clash-verge-rev/clash-verge-rev/releases
+          description: 
+        - title: Nekoray
+          logo: NekoBox.png
+          url: https://github.com/MatsuriDayo/nekoray/releases
+          description: 
+        - title: Hiddify
+          logo: Hiddify.png
+          url: https://github.com/hiddify/hiddify-next/releases
+          description: 
+    - term: 安卓APP下载
+      links:
+        - title: v2rayNG
+          logo: v2rayNG.png
+          url: https://github.com/2dust/v2rayNG/releases
+          description: 
+        - title: Clash
+          logo: Clash.png
+          url: https://github.com/Yanzzp/clash_for_android
+          description: 
+        - title: Clash Meta
+          logo: Clash Meta.png
+          url: https://github.com/MetaCubeX/ClashMetaForAndroid/releases
+          description: 
+        - title: NekoBox
+          logo: NekoBox.png
+          usrl: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+          description: 
+        - title: surfboard
+          logo: surfboard.png
+          url: https://github.com/getsurfboard/surfboard/releases
+          description: 
+        - title: sing-box
+          logo: sing-box.png
+          url: https://github.com/SagerNet/sing-box/releases
+          description: 
+        - title: Hiddify
+          logo: Hiddify.png
+          url: https://github.com/hiddify/hiddify-next/releases
+          description: 
+    - term: IOS软件下载
+      links:
+        - title: Clash X
+          logo: Clash.png
+          url: https://clashxhub.com/clash-backup-download
+          description: 
+        - title: Clash
+          logo: Clash.png
+          url: https://clashxhub.com/clash-backup-download
+          description: 
+        - title: Clash Verge
+          logo: Clash.png
+          usrl: https://clashverge.net
+          description: 
+        - title: Nekoray
+          logo: NekoBox.png
+          url: https://nekoray.com
+          description: 
+        - title: Hiddify
+          logo: Hiddify.png
+          url: https://github.com/hiddify/hiddify-next/releases
+          description: 
+        - title: 小火箭
+          logo: Shadowrocket.png
+          url: https://apps.apple.com/bo/app/shadowrocket/id932747118?l=en
+          description: 
+    - term: 系统下载
+      links:
+        - title: WINOS
+          logo: WINOS.png
+          url: https://www.winos.me
+          description: 
+        - title: MSDN原版系统
+          logo: MSDNybxt.png
+          url: https://www.imsdn.cn
+          description: 
+        - title: 系统镜像
+          logo: xtjx.png
+          url: http://www.xitongiso.com
+          description: 
+        - title: 大地系统
+          logo: ddxt.png
+          url: https://www.dadighost.com
+          description: 
+        - title: 系统之家
+          logo: xtzj.png
+          url: https://www.xitongzhijia.net
+          description: 
+        - title: 纯净系统
+          logo: cjxt.png
+          url: http://www.chunjingxitong.com
+          description: 
+        - title: 纯净系统基地
+          logo: cjxtjd.png
+          url: http://www.cjbxt.com
+          description: 
+        - title: MSDN, 我告诉你
+          logo: MSDNwgsn.png
+          url: https://msdn.itellyou.cn
+          description: 
+        - title: MSDN系统库
+          logo: MSDNxtk.png
+          url: https://www.xitongku.com
+          description: 
+    - term: 远程软件
+      links:
+        - title: LocalSend跨平台传输
+          logo: LocalSend.png
+          url: https://localsend.org/zh-CN
+          description: 
+        - title: 向日葵
+          logo: xiangrikui.png
+          url: https://sunlogin.oray.com
+          description: 
+        - title: ToDesk
+          logo: ToDesk.png
+          url: https://www.todesk.com
+          description: 
+        - title: Raylink
+          logo: Raylink.png
+          url: https://www.raylink.live
+          description: 
+        - title: Rustdesk
+          logo: Rustdesk.png
+          url: https://rustdesk.com/zh
+          description: 
+        - title: 连连控AskLink
+          logo: AskLink.png
+          url: https://www.asklink.com
+          description: 
+   
+      
+- taxonomy: 特殊网站
+  icon: fas fa-coffee fa-lg
+  list: 
+    - term: 磁力网站
+      links:
+        - title: JavBus
+          logo: javbus.com.png
+          url: https://www.javbus.com
+          description: 
+        - title: Jav目录
+          logo: javmulu.png
+          url: https://javmulu.net
+          description: 
+        - title: Jav DB
+          logo: Jav DB.png
+          url: https://javdb457.com
+          description: 
+        - title: JAV Library
+          logo: JAV Library.png
+          url: https://www.javlibrary.com/cn
+          description: 
+        - title: JAV STorage
+          logo: JAV STorage.png
+          url: https://jav.st/zh
+          description: 
+        - title: ATTACKERS.NET
+          logo: ATTACKERS.NET.png
+          url: https://attackers.net
+          description: 
+        - title: ATTACKERS
+          logo: ATTACKERS.png
+          url: https://ero.memo.wiki/d/ATTACKERS
+          description: 
+    - term: 在线导航
+      links:
+        - title: 站点导航
+          logo: pipigou805.png
+          url: https://pipigou805.top
+          description: 
+        - title: S.S.G.導航
+          logo: ssguide.png
+          url: https://ssguide.xyz
+          description: 
+        - title: 141JJ最全成人
+          logo: 141jj.png
+          url: https://141jj.com
+          description: 
+        - title: 聚BT - 磁力资源
+          logo: jubt.funcn.png
+          url: https://jubt.top
+          description: 
+        - title: 文尼导航
+          logo: biglist.png
+          url: https://biglist.xyz
+          description: 
+        - title: 同学导航
+          logo: txscz.png
+          url: https://txscz.com
+          description: 
+        - title: 夜夜草
+          logo: yycdh30.png
+          url: https://yycdh30.com:56701
+          description: 
+        - title: 娇色导航
+          logo: jiao.png
+          url: https://jiao.se
+          description: 
+    - term: 在线网站
+      links:
+        - title: JAV目錄大全
+          logo: freejavbt02.png
+          url: https://freejavbt02.com
+          description: 
+        - title: Netflav
+          logo: Netflav.png
+          url: https://netflav.com
+          description: 
+        - title: 久爱网
+          logo: lbvjiuawc.png
+          url: https://lbvjiuawc.buzz
+          description: 
+        - title: 暗网禁区
+          logo: awjqub.png
+          url: https://awjqub.icu
+          description: 
+        - title: 浴室少女
+          logo: fld81.png
+          url: https://www.fld81.com
+          description: 
+        - title: 18 AV
+          logo: 18 AV.png
+          url: https://mjv001.com
+          description: 
+        - title: Joble TV
+          logo: Joble TV.png
+          url: https://jable.tv
+          description: 
+        - title: 正妹 AV
+          logo: goodav17.png
+          url: https://goodav17.com
+          description: 
+        - title: 狗狗 AV
+          logo: gogo.png
+          url: https://gogo.pipigou805.top
+          description: 
+        - title: Miss AV
+          logo: Tiss AV.png
+          url: https://missav.ai/dm45
+          description: 
+        - title: Japnhub
+          logo: Japnhub.png
+          url: https://japanhub.net
+          description: 
+        - title: HighPorn
+          logo: Japnhub.png
+          url: https://highporn.net
+          description: 
+        - title: SpankBang
+          logo: SpankBang.png
+          url: https://jp.spankbang.com
+          description: 
+        - title: XMoreX
+          logo: XMoreX.png
+          url: https://www.xmorex.com
+          description: 
+        - title: Xozilla
+          logo: Xozilla.png
+          url: https://www.xozilla.com
+          description: 
+        - title: TKTube
+          logo: TKTube.png
+          url: https://tktube.com/zh
+          description: 
+        - title: sextb
+          logo: sextb.png
+          url: https://sextb.net
+          description: 
+        - title: Watch JAV
+          logo: Watch JAV.png
+          url: https://pubjav.com
+          description: 
+
+
+- taxonomy: 博客导航
+  icon: fas fa fa-graduation-cap
+  list: 
+    - term: 博客网站
+      links:
+        - title: 科学上网
+          logo: yanglei.png
+          url: https://jiedian.zabc.net
+          description: 个人网站
+        - title: 杨磊的博客
+          logo: freeddns.png
+          url: https://blog520.ddnsfree.com
+          description: hashnode
+        - title: 蕾丝博客
+          logo: Wordpress.png
+          url: https://0553.hidns.vip
+          description: hidns
+        - title: 杜蕾斯博客
+          logo: Wordpress.png
+          url: https://blog520.de5.net
+          description: de5
+        - title: 杨磊博客
+          logo: blog520.png
+          url: https://www.blog520.pp.ua
+          description: Blogger
+    - term: 导航网址
+      links:
+        - title: 冰宝路导航站
+          logo: 520dh.png
+          url: https://yanglei.nyc.mn
+          description: 
+        - title: 仓鼠导航
+          logo: cangshu.png
+          url: http://cs520.sylu.net
+          description: 
+        - title: 冰淇淋导航
+          logo: yangleiily.png
+          url: https://dh520.dpdns.org
+          description: 
+        - title: 太极导航
+          logo: taiji.png
+          url: https://kj520.sylu.net
+          description: 
+        - title: 杜蕾斯导航
+          logo: duleisi.png
+          url: https://dh520.sylu.net
+          description: 
